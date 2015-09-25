@@ -1,0 +1,27 @@
+#u1770
+{
+	background-color: #EDEDED;
+}
+
+#u1773
+{
+	border-style: none;
+	border-color: transparent;
+	border-radius: 0px 5px 5px 0px ;
+	-webkit-transform: matrix(0,-1,1,0,-61,100);
+	-ms-transform: matrix(0,-1,1,0,-61,100);
+	transform: matrix(0,-1,1,0,-61,100);
+	position: relative;
+	background: #FFFFFF url("../images/arrows-mn_arrow_right.png") no-repeat center center;
+}
+
+#u1773:hover
+{
+	background: #EDEDED url("../images/arrows-mn_arrow_right.png") no-repeat center center;
+}
+
+#u1773:active
+{
+	background: #F7F7F7 url("../images/arrows-mn_arrow_right.png") no-repeat center center;
+}
+
