@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000D;
-	background-color: #FE9A88;
+	color: #0000F5;
+	background-color: #43FD23;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 4799.974999999998px;
+	min-height: 4999.974999999998px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -52,9 +52,9 @@
 	min-height: 57px;
 	background-color: transparent;
 	letter-spacing: 1px;
-	line-height: 14px;
 	font-size: 12px;
 	text-align: center;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -98,9 +98,9 @@
 	min-height: 57px;
 	background-color: transparent;
 	letter-spacing: 1px;
-	line-height: 14px;
 	font-size: 12px;
 	text-align: center;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -144,9 +144,9 @@
 	min-height: 57px;
 	background-color: transparent;
 	letter-spacing: 1px;
-	line-height: 14px;
 	font-size: 12px;
 	text-align: center;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -205,9 +205,9 @@
 	min-height: 57px;
 	background-color: transparent;
 	letter-spacing: 1px;
-	line-height: 14px;
 	font-size: 12px;
 	text-align: center;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -251,9 +251,9 @@
 	min-height: 57px;
 	background-color: transparent;
 	letter-spacing: 1px;
-	line-height: 14px;
 	font-size: 12px;
 	text-align: center;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -361,8 +361,8 @@
 	min-height: 306px;
 	background-color: transparent;
 	color: #353535;
-	text-align: left;
 	letter-spacing: 1px;
+	text-align: left;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -421,7 +421,7 @@
 	min-height: 54px;
 	background-color: transparent;
 	line-height: 42px;
-	margin-top: 110px;
+	margin-top: 74px;
 	position: relative;
 }
 
@@ -431,11 +431,11 @@
 	width: 920px;
 	min-height: 142px;
 	background-color: transparent;
+	line-height: 25px;
 	font-size: 13px;
 	text-align: left;
-	line-height: 25px;
 	margin-left: 20px;
-	margin-top: 26px;
+	margin-top: 62px;
 	position: relative;
 }
 
@@ -443,15 +443,14 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 222px;
+	margin-top: 231px;
 }
 
 #u220
 {
 	z-index: 8;
-	min-height: 859.5458612780592px;
+	min-height: 860px;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 }
 
 #u220_align_to_page
@@ -461,8 +460,14 @@
 	width: 960px;
 	position: relative;
 	left: -100px;
-	padding-top: 66px;
-	padding-bottom: 120px;
+	padding-top: 7px;
+	padding-bottom: 72px;
+}
+
+#skills
+{
+	left: 569px;
+	position: relative;
 }
 
 #u1628-4
@@ -473,14 +478,80 @@
 	background-color: transparent;
 	line-height: 42px;
 	left: 100px;
+	margin-top: 67px;
 	position: relative;
+}
+
+#pu232-4
+{
+	width: 0.01px;
+	left: 100px;
+	position: relative;
+}
+
+#u232-4
+{
+	z-index: 39;
+	width: 250px;
+	min-height: 27px;
+	background-color: transparent;
+	color: #000000;
+	line-height: 25px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2373-4
+{
+	z-index: 90;
+	width: 230px;
+	min-height: 27px;
+	background-color: transparent;
+	color: #000000;
+	line-height: 25px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 250px;
+}
+
+#u2372-4
+{
+	z-index: 86;
+	width: 240px;
+	min-height: 27px;
+	background-color: transparent;
+	color: #000000;
+	line-height: 25px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 480px;
+}
+
+#u237-4
+{
+	z-index: 43;
+	width: 240px;
+	min-height: 27px;
+	background-color: transparent;
+	color: #000000;
+	line-height: 25px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 720px;
 }
 
 #pu2377-9
 {
 	width: 0.01px;
 	left: 120px;
-	margin-top: 54px;
 	position: relative;
 }
 
@@ -521,7 +592,7 @@
 	background-color: transparent;
 	line-height: 42px;
 	left: 100px;
-	margin-top: 70px;
+	margin-top: 101px;
 	position: relative;
 }
 
@@ -536,87 +607,14 @@
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	left: 120px;
-	margin-top: 9px;
+	margin-top: 27px;
 	position: relative;
 }
 
 #u220-bw
 {
 	z-index: 8;
-	min-height: 859.5458612780592px;
-	margin-top: 9px;
-}
-
-#u232-4
-{
-	z-index: 39;
-	width: 250px;
-	min-height: 27px;
-	background-color: transparent;
-	color: #000000;
-	line-height: 25px;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 126px;
-	left: 100px;
-}
-
-#u237-4
-{
-	z-index: 43;
-	width: 240px;
-	min-height: 27px;
-	background-color: transparent;
-	color: #000000;
-	line-height: 25px;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 126px;
-	left: 820px;
-}
-
-#skills
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	left: 563px;
-}
-
-#u2372-4
-{
-	z-index: 86;
-	width: 240px;
-	min-height: 27px;
-	background-color: transparent;
-	color: #000000;
-	line-height: 25px;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 126px;
-	left: 580px;
-}
-
-#u2373-4
-{
-	z-index: 90;
-	width: 230px;
-	min-height: 27px;
-	background-color: transparent;
-	color: #000000;
-	line-height: 25px;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 126px;
-	left: 350px;
+	min-height: 860px;
 }
 
 #u2379-11
@@ -631,7 +629,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 180px;
+	margin-top: 171px;
 	left: 820px;
 }
 
@@ -647,14 +645,14 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 180px;
+	margin-top: 171px;
 	left: 350px;
 }
 
 #experience
 {
-	margin-left: 469px;
-	margin-top: 46px;
+	margin-left: 473px;
+	margin-top: 37px;
 	position: relative;
 }
 
@@ -665,7 +663,7 @@
 	min-height: 60px;
 	background-color: transparent;
 	line-height: 42px;
-	margin-top: 92px;
+	margin-top: 54px;
 	position: relative;
 }
 
@@ -676,10 +674,10 @@
 	min-height: 439px;
 	background-color: transparent;
 	font-size: 14px;
-	text-align: left;
 	line-height: 26px;
+	text-align: left;
 	margin-left: 20px;
-	margin-top: 58px;
+	margin-top: 19px;
 	position: relative;
 }
 
@@ -691,7 +689,7 @@
 #u2392
 {
 	z-index: 7;
-	min-height: 932px;
+	min-height: 882px;
 	background-color: #FFFFFF;
 }
 
@@ -702,8 +700,8 @@
 	width: 960px;
 	position: relative;
 	left: -100px;
-	padding-top: 120px;
-	padding-bottom: 167px;
+	padding-top: 114px;
+	padding-bottom: 15px;
 }
 
 #u1640-4
@@ -724,10 +722,10 @@
 	min-height: 439px;
 	background-color: transparent;
 	font-size: 14px;
-	text-align: left;
 	line-height: 26px;
+	text-align: left;
 	left: 120px;
-	margin-top: 73px;
+	margin-top: 79px;
 	position: relative;
 }
 
@@ -741,18 +739,18 @@
 	font-weight: 700;
 }
 
+#projects
+{
+	left: 569px;
+	margin-top: 84px;
+	position: relative;
+}
+
 #u2392-bw
 {
 	z-index: 7;
-	min-height: 932px;
-	margin-top: 195px;
-}
-
-#projects
-{
-	margin-left: 458px;
-	margin-top: 92px;
-	position: relative;
+	min-height: 882px;
+	margin-top: 281px;
 }
 
 #u2366-4
@@ -762,6 +760,7 @@
 	min-height: 52px;
 	background-color: transparent;
 	line-height: 42px;
+	margin-top: 36px;
 	position: relative;
 }
 
@@ -774,7 +773,7 @@
 	text-align: left;
 	font-weight: 400;
 	margin-left: 20px;
-	margin-top: 57px;
+	margin-top: 83px;
 	position: relative;
 }
 
@@ -793,8 +792,8 @@
 #ppu2419
 {
 	width: 0.01px;
-	margin-left: 431px;
-	margin-top: 105px;
+	margin-left: 420px;
+	margin-top: 370px;
 }
 
 #u2419
@@ -820,13 +819,13 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 58px;
+	left: 69px;
 }
 
 #work
 {
 	margin-left: 469px;
-	top: -1587px;
+	top: -1713px;
 	margin-bottom: -18px;
 	position: relative;
 }
@@ -835,7 +834,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -149px;
+	margin-top: -116px;
 }
 
 #u1770,#u1770-bw
