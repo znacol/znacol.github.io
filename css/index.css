@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #43FD23;
+	color: #000005;
+	background-color: #6736B6;
 }
 
 .html
@@ -30,7 +30,7 @@
 
 #u120
 {
-	z-index: 195;
+	z-index: 198;
 	height: 57px;
 	border-style: solid;
 	border-color: #C9C9C9;
@@ -42,19 +42,19 @@
 
 #u120-bw
 {
-	z-index: 195;
+	z-index: 198;
 }
 
 #u173-4
 {
-	z-index: 208;
+	z-index: 211;
 	width: 102px;
 	min-height: 57px;
 	background-color: transparent;
+	line-height: 14px;
 	letter-spacing: 1px;
 	font-size: 12px;
 	text-align: center;
-	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -93,14 +93,14 @@
 
 #u172-4
 {
-	z-index: 204;
+	z-index: 207;
 	width: 116px;
 	min-height: 57px;
 	background-color: transparent;
+	line-height: 14px;
 	letter-spacing: 1px;
 	font-size: 12px;
 	text-align: center;
-	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -139,14 +139,14 @@
 
 #u168-4
 {
-	z-index: 196;
+	z-index: 199;
 	width: 108px;
 	min-height: 57px;
 	background-color: transparent;
+	line-height: 14px;
 	letter-spacing: 1px;
 	font-size: 12px;
 	text-align: center;
-	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -200,14 +200,14 @@
 
 #u182-4
 {
-	z-index: 200;
+	z-index: 203;
 	width: 137px;
 	min-height: 57px;
 	background-color: transparent;
+	line-height: 14px;
 	letter-spacing: 1px;
 	font-size: 12px;
 	text-align: center;
-	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -246,14 +246,14 @@
 
 #u2398-4
 {
-	z-index: 213;
+	z-index: 216;
 	width: 137px;
 	min-height: 57px;
 	background-color: transparent;
+	line-height: 14px;
 	letter-spacing: 1px;
 	font-size: 12px;
 	text-align: center;
-	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -303,7 +303,7 @@
 
 #u960
 {
-	z-index: 194;
+	z-index: 197;
 	height: 4px;
 	border-style: none;
 	border-color: transparent;
@@ -317,7 +317,7 @@
 
 #u960-bw
 {
-	z-index: 194;
+	z-index: 197;
 }
 
 #pu2381
@@ -357,7 +357,7 @@
 #u88-14
 {
 	z-index: 9;
-	width: 960px;
+	width: 940px;
 	min-height: 306px;
 	background-color: transparent;
 	color: #353535;
@@ -417,11 +417,12 @@
 #u203-4
 {
 	z-index: 23;
-	width: 960px;
+	width: 920px;
 	min-height: 54px;
 	background-color: transparent;
 	line-height: 42px;
-	margin-top: 74px;
+	margin-left: 20px;
+	margin-top: 80px;
 	position: relative;
 }
 
@@ -435,7 +436,7 @@
 	font-size: 13px;
 	text-align: left;
 	margin-left: 20px;
-	margin-top: 62px;
+	margin-top: 56px;
 	position: relative;
 }
 
@@ -473,11 +474,11 @@
 #u1628-4
 {
 	z-index: 27;
-	width: 960px;
+	width: 920px;
 	min-height: 52px;
 	background-color: transparent;
 	line-height: 42px;
-	left: 100px;
+	left: 120px;
 	margin-top: 67px;
 	position: relative;
 }
@@ -495,8 +496,8 @@
 	width: 250px;
 	min-height: 27px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 25px;
+	color: #000000;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -505,12 +506,12 @@
 
 #u2373-4
 {
-	z-index: 90;
+	z-index: 93;
 	width: 230px;
 	min-height: 27px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 25px;
+	color: #000000;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -520,12 +521,12 @@
 
 #u2372-4
 {
-	z-index: 86;
+	z-index: 89;
 	width: 240px;
 	min-height: 27px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 25px;
+	color: #000000;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -536,11 +537,11 @@
 #u237-4
 {
 	z-index: 43;
-	width: 240px;
+	width: 220px;
 	min-height: 27px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 25px;
+	color: #000000;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -557,12 +558,12 @@
 
 #u2377-9
 {
-	z-index: 94;
+	z-index: 97;
 	width: 230px;
 	min-height: 301px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -571,12 +572,12 @@
 
 #u2378-9
 {
-	z-index: 103;
+	z-index: 106;
 	width: 240px;
 	min-height: 301px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -586,24 +587,24 @@
 
 #u2390-4
 {
-	z-index: 184;
-	width: 960px;
+	z-index: 187;
+	width: 920px;
 	min-height: 52px;
 	background-color: transparent;
 	line-height: 42px;
-	left: 100px;
+	left: 120px;
 	margin-top: 101px;
 	position: relative;
 }
 
 #u2391-6
 {
-	z-index: 188;
+	z-index: 191;
 	width: 920px;
 	min-height: 136px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	left: 120px;
@@ -619,12 +620,12 @@
 
 #u2379-11
 {
-	z-index: 112;
-	width: 240px;
+	z-index: 115;
+	width: 220px;
 	min-height: 301px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -635,12 +636,12 @@
 
 #u2380-13
 {
-	z-index: 123;
+	z-index: 126;
 	width: 230px;
 	min-height: 301px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -659,15 +660,16 @@
 #u223-4
 {
 	z-index: 31;
-	width: 960px;
+	width: 920px;
 	min-height: 60px;
 	background-color: transparent;
 	line-height: 42px;
+	margin-left: 20px;
 	margin-top: 54px;
 	position: relative;
 }
 
-#u2049-26
+#u2049-29
 {
 	z-index: 56;
 	width: 920px;
@@ -681,7 +683,7 @@
 	position: relative;
 }
 
-#u2377-7 > li:before,#u2378-7 > li:before,#u2379-9 > li:before,#u2380-11 > li:before,#u2049-24 > li:before
+#u2377-7 > li:before,#u2378-7 > li:before,#u2379-9 > li:before,#u2380-11 > li:before,#u2049-27 > li:before
 {
 	content: '○';
 }
@@ -689,7 +691,7 @@
 #u2392
 {
 	z-index: 7;
-	min-height: 882px;
+	min-height: 908px;
 	background-color: #FFFFFF;
 }
 
@@ -707,17 +709,17 @@
 #u1640-4
 {
 	z-index: 52;
-	width: 960px;
+	width: 920px;
 	min-height: 52px;
 	background-color: transparent;
 	line-height: 42px;
-	left: 100px;
+	left: 120px;
 	position: relative;
 }
 
 #u2388-36
 {
-	z-index: 136;
+	z-index: 139;
 	width: 920px;
 	min-height: 439px;
 	background-color: transparent;
@@ -729,12 +731,12 @@
 	position: relative;
 }
 
-#u2049-7,#u2049-8,#u2049-10,#u2049-12,#u2049-14,#u2049-15,#u2049-19,#u2049-21,#u2049-23,#u2388-2,#u2388-4,#u2388-8,#u2388-11,#u2388-14,#u2388-16,#u2388-20,#u2388-24,#u2388-26,#u2388-30,#u2388-32
+#u2049-7,#u2049-8,#u2049-10,#u2049-12,#u2049-14,#u2049-15,#u2049-17,#u2049-18,#u2049-22,#u2049-24,#u2049-26,#u2388-2,#u2388-4,#u2388-8,#u2388-11,#u2388-14,#u2388-18,#u2388-20,#u2388-24,#u2388-26,#u2388-30,#u2388-32
 {
 	font-weight: 400;
 }
 
-#u2049-2,#u2049-3,#u2049-5,#u2049-9,#u2049-17,#u2388-3,#u2388-5,#u2388-6,#u2388-9,#u2388-12,#u2388-15,#u2388-17,#u2388-18,#u2388-21,#u2388-22,#u2388-25,#u2388-27,#u2388-28,#u2388-31,#u2388-33,#u2388-34
+#u2049-2,#u2049-3,#u2049-5,#u2049-9,#u2049-16,#u2049-20,#u2388-3,#u2388-5,#u2388-6,#u2388-9,#u2388-12,#u2388-15,#u2388-16,#u2388-19,#u2388-21,#u2388-22,#u2388-25,#u2388-27,#u2388-28,#u2388-31,#u2388-33,#u2388-34
 {
 	font-weight: 700;
 }
@@ -749,24 +751,25 @@
 #u2392-bw
 {
 	z-index: 7;
-	min-height: 882px;
+	min-height: 908px;
 	margin-top: 281px;
 }
 
 #u2366-4
 {
-	z-index: 82;
-	width: 960px;
+	z-index: 85;
+	width: 920px;
 	min-height: 52px;
 	background-color: transparent;
 	line-height: 42px;
+	margin-left: 20px;
 	margin-top: 36px;
 	position: relative;
 }
 
 #u2389-12
 {
-	z-index: 172;
+	z-index: 175;
 	width: 920px;
 	min-height: 283px;
 	background-color: transparent;
@@ -798,7 +801,7 @@
 
 #u2419
 {
-	z-index: 219;
+	z-index: 222;
 	height: 39px;
 	width: 38px;
 	vertical-align: top;
@@ -814,7 +817,7 @@
 
 #u2439
 {
-	z-index: 221;
+	z-index: 224;
 	width: 38px;
 	background-color: transparent;
 	position: relative;
@@ -825,7 +828,7 @@
 #work
 {
 	margin-left: 469px;
-	top: -1713px;
+	top: -1739px;
 	margin-bottom: -18px;
 	position: relative;
 }
@@ -834,7 +837,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -116px;
+	margin-top: -142px;
 }
 
 #u1770,#u1770-bw
